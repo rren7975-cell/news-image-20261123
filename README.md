@@ -9,3 +9,13 @@ A 1024x1024 newspaper front page (entry.png) summarising the world news of Monda
 python3 main.py  (Python 3.13, standard library only) — copies entry.png to /output/entry.png.
 
 MIT License — see LICENSE.
+
+## make.fun entry
+
+[![make.fun bounty](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123)
+
+![Live rank](https://make.fun/badge/news-image-20261123/rren7975-cell/news-image-20261123/rank.svg)
+
+![Live reward](https://make.fun/badge/news-image-20261123/rren7975-cell/news-image-20261123/reward.svg)
+
+Bounty page: https://make.fun/bounty/news-image-20261123
